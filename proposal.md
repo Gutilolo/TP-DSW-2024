@@ -12,3 +12,9 @@ Biblioteca virtual usando la función de marketing de afiliaciones de hotmart, c
 
 ## Modelo de dominio
 ![Modelo de dominio TP DSW drawio](https://github.com/Gutilolo/TP-DSW-2024/assets/133457577/abe3fccb-7b74-4448-aa01-715f8d29ae69)
+
+CRUD simple:  1. CRUD Usuario
+              2. CRUD Libro
+              3. CRUD Categoria
+
+CRUD dependiente:  
